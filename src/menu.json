@@ -1,0 +1,17 @@
+{
+    "restaurant_id": "789",
+    "menu": [
+        {
+            "id": "1",
+            "name": "Pizza",
+            "price": 9.99,
+            "description": "Delicious cheese pizza"
+        },
+        {
+            "id": "2",
+            "name": "Burger",
+            "price": 5.99,
+            "description": "Juicy beef burger"
+        }
+    ]
+}

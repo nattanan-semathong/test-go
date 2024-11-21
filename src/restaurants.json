@@ -1,0 +1,12 @@
+{
+    "restaurant": [
+        {
+            "id": "1",
+            "name": "Pizza World"
+        },
+        {
+            "id": "2",
+            "name": "WCDonald"
+        }
+    ]
+}
